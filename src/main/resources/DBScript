@@ -1,0 +1,6 @@
+ CREATE TABLE USERS (
+  'USER_ID' int(11) NOT NULL AUTO_INCREMENT,
+  'USER_NAME' varchar(45) NOT NULL,
+  'USER_AGE' int(11) NOT NULL,
+  PRIMARY KEY ('user_id')
+)
